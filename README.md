@@ -1,21 +1,47 @@
 # Campus Inventory Tracker
 
 ## About the Project
+Campus Inventory Tracker is a beginner-friendly Python application that helps users manage inventory across multiple storage locations.
 
-The Campus Inventory Tracker is a Python application designed to help users organize and manage inventory across multiple locations.
+I built this project to practice Python programming and learn how inventory management systems work.
 
-The application allows users to view available items, update quantities, add new items, search for supplies, and identify items that are running low.
+## Features
+- View inventory by location
+- Add new inventory items
+- Update item quantities
+- Search for items
+- Identify low-stock items
+- View inventory summaries
+- Export inventory data to CSV
+- Save inventory data using JSON
 
-It also saves inventory information so that changes are not lost when the program closes.
+## Technologies Used
+- Python
+- JSON
+- CSV
+- Visual Studio Code
+- GitHub
 
-I created this project as a practical way to improve my Python programming skills and learn how to build an application that solves a real-world problem.
+## How to Run
+1. Download or clone this repository.
+2. Open the project folder.
+3. Run the following command:
 
-All inventory records included in this public project are fictional sample data created for demonstration and testing purposes.
+   python INVENTORY.py
 
-## Why I Built This Project
+## What I Learned
+- Python functions
+- Dictionaries and lists
+- Conditional statements
+- Loops
+- Reading and writing JSON files
+- Exporting data to CSV
+- Building a practical programming project
 
-Managing inventory can become difficult when there are many items stored in different locations.
+## Future Improvements
+- Add a graphical user interface.
+- Add user login functionality.
+- Improve inventory reporting.
 
-I wanted to create a simple application that makes it easier to organize supplies, check quantities, and find items without manually searching through records.
-
-This project also gave me an opportunity to practice Python by building something useful.
+## Project Status
+This project is a work in progress. I plan to continue improving it as I develop my programming skills.

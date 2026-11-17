@@ -1,0 +1,62 @@
+{
+    "North Storage": [
+        {
+            "item": "Office Chairs",
+            "quantity": 15
+        },
+        {
+            "item": "Computer Desks",
+            "quantity": 8
+        },
+        {
+            "item": "Storage Boxes",
+            "quantity": 25
+        },
+        {
+            "item": "LED Bulbs",
+            "quantity": 3
+        },
+        {
+            "item": "Filing Cabinets",
+            "quantity": 6
+        },
+        {
+            "item": "Office Tables",
+            "quantity": 12
+        },
+        {
+            "item": "Cleaning Supplies",
+            "quantity": 4
+        }
+    ],
+    "South Storage": [
+        {
+            "item": "Computer Monitors",
+            "quantity": 10
+        },
+        {
+            "item": "Keyboards",
+            "quantity": 20
+        },
+        {
+            "item": "Office Lamps",
+            "quantity": 7
+        },
+        {
+            "item": "Printer Paper",
+            "quantity": 2
+        },
+        {
+            "item": "Extension Cables",
+            "quantity": 14
+        },
+        {
+            "item": "Whiteboards",
+            "quantity": 5
+        },
+        {
+            "item": "Desk Organizers",
+            "quantity": 18
+        }
+    ]
+}
